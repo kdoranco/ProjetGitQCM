@@ -29,3 +29,19 @@ Quelle est la commande qui ne permet pas vérifier vos paramètres ?
   git config --list
   git config --global --list
   git config --parameters
+
+Quelle commande permet d'intialiser un dépôt Git ?
+  git init
+  git config 
+  git initialize
+
+Sous Git, quelle est le nom de la branche principale ?
+  la master branch
+  la principal branch
+  la root branch
+  la main branch
+
+Quelle commande Git permet d'ajouter un fichier au stage ?
+  git add
+  git adding
+  git push
