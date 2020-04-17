@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Home.Modele;
+using System;
 
-namespace ProjetGitQCM
+namespace Home
 {
-    class Program
+    class MainDuControleur
     {
         static void Main(string[] args)
         {
