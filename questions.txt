@@ -56,3 +56,13 @@ Quelle commande permet de connaître les branches présentes dans notre projet ?
   git branch
   git branche
   git brunch
+
+Quelle commande permet de réaliser un commit ?
+  git commit -m "message"
+  git commit -description "message"
+  git commis -m "message"
+
+Quelle commande permet d'archiver un fichier?
+  git commit 
+  git flush
+  git archiv
