@@ -13,3 +13,19 @@ Quelle commande permet de voir à quel état sont mes fichiers ?
   git status
   git statute
   git state
+
+Quelle est la commande pour cloner un dépôt en local ?
+  git clone
+  git remote add 
+  git cloning
+
+
+Quelle commande permet d'envoyer un fichier commit sur le remote ?
+  git push
+  git put
+  git set
+
+Quelle est la commande qui ne permet pas vérifier vos paramètres ?
+  git config --list
+  git config --global --list
+  git config --parameters
