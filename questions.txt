@@ -45,3 +45,14 @@ Quelle commande Git permet d'ajouter un fichier au stage ?
   git add
   git adding
   git push
+
+Laquelle des quatres réponses ne fait pas partie du dépot local
+  working directory
+  staging area
+  repository
+  remote area
+  
+Quelle commande permet de connaître les branches présentes dans notre projet ?
+  git branch
+  git branche
+  git brunch
