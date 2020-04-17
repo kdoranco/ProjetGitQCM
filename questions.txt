@@ -1,0 +1,68 @@
+Quelle est la commande pour connaître la version de Git ?
+git --version
+git status
+git config --list
+git log
+
+Quelle est la commande incorrecte pour initialiser Git ?
+git config --global user.pseudo "votre nom"
+git config --global user.name "votre nom"
+git config --global user.email "votre email"
+
+Quelle commande permet de voir à quel état sont mes fichiers ?
+git status
+git statute
+git state
+
+Quelle est la commande pour cloner un dépôt en local ?
+git clone
+git remote add 
+git cloning
+
+
+Quelle commande permet d'envoyer un fichier commit sur le remote ?
+git push
+git put
+git set
+
+Quelle est la commande qui ne permet pas vérifier vos paramètres ?
+git config --list
+  git config --global --list
+  git config --parameters
+
+Quelle commande permet d'intialiser un dépôt Git ?
+  git init
+  git config 
+  git initialize
+
+Sous Git, quelle est le nom de la branche principale ?
+  la master branch
+  la principal branch
+  la root branch
+  la main branch
+
+Quelle commande Git permet d'ajouter un fichier au stage ?
+  git add
+  git adding
+  git push
+
+Laquelle des quatres réponses ne fait pas partie du dépot local
+  working directory
+  staging area
+  repository
+  remote area
+  
+Quelle commande permet de connaître les branches présentes dans notre projet ?
+  git branch
+  git branche
+  git brunch
+
+Quelle commande permet de réaliser un commit ?
+  git commit -m "message"
+  git commit -description "message"
+  git commis -m "message"
+
+Quelle commande permet d'archiver un fichier?
+  git commit 
+  git flush
+  git archiv
