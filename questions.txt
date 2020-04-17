@@ -1,32 +1,32 @@
 Quelle est la commande pour connaître la version de Git ?
-  git --version
-  git status
-  git config --list
-  git log
+git --version
+git status
+git config --list
+git log
 
 Quelle est la commande incorrecte pour initialiser Git ?
-  git config --global user.pseudo "votre nom"
-  git config --global user.name "votre nom"
-  git config --global user.email "votre email"
+git config --global user.pseudo "votre nom"
+git config --global user.name "votre nom"
+git config --global user.email "votre email"
 
 Quelle commande permet de voir à quel état sont mes fichiers ?
-  git status
-  git statute
-  git state
+git status
+git statute
+git state
 
 Quelle est la commande pour cloner un dépôt en local ?
-  git clone
-  git remote add 
-  git cloning
+git clone
+git remote add 
+git cloning
 
 
 Quelle commande permet d'envoyer un fichier commit sur le remote ?
-  git push
-  git put
-  git set
+git push
+git put
+git set
 
 Quelle est la commande qui ne permet pas vérifier vos paramètres ?
-  git config --list
+git config --list
   git config --global --list
   git config --parameters
 
